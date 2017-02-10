@@ -1,0 +1,1535 @@
+[ 2017-02-10T09:01:40+08:00 ] 127.0.0.1 /pc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2017-02-10T09:01:40+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+
+[ 2017-02-10T09:01:40+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-02-10T09:01:49+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2017-02-10T09:01:49+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2017-02-10T09:11:13+08:00 ] 127.0.0.1 /Pc/s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2017-02-10T09:11:27+08:00 ] 127.0.0.1 /Pc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+
+[ 2017-02-10T09:11:52+08:00 ] 127.0.0.1 /Pc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-02-10T09:11:55+08:00 ] 127.0.0.1 /Pc/s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2017-02-10T09:12:02+08:00 ] 127.0.0.1 /Pc/s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-02-10T09:12:09+08:00 ] 127.0.0.1 /Pc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-02-10T09:12:14+08:00 ] 127.0.0.1 /Pc/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-02-10T09:12:19+08:00 ] 127.0.0.1 /Pc/index/s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+
+[ 2017-02-10T09:12:22+08:00 ] 127.0.0.1 /Pc/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-02-10T09:17:28+08:00 ] 127.0.0.1 /Pc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-02-10T13:37:31+08:00 ] 127.0.0.1 /Pc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+
+[ 2017-02-10T13:37:31+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+
+[ 2017-02-10T13:37:31+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+
+[ 2017-02-10T13:37:35+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2017-02-10T13:37:36+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-02-10T13:37:36+08:00 ] 127.0.0.1 /Pc/Index/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+
+[ 2017-02-10T13:38:06+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-02-10T13:38:06+08:00 ] 127.0.0.1 /Pc/Index/images/home.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+
+[ 2017-02-10T13:38:31+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2017-02-10T13:39:48+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+
+[ 2017-02-10T13:39:59+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2017-02-10T13:40:00+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2017-02-10T13:40:38+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+
+[ 2017-02-10T13:40:51+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000932s ]
+
+[ 2017-02-10T13:40:51+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2017-02-10T13:40:52+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+
+[ 2017-02-10T13:40:52+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+
+[ 2017-02-10T13:40:52+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+
+[ 2017-02-10T13:40:52+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2017-02-10T13:40:52+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2017-02-10T13:40:52+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2017-02-10T13:40:52+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001229s ]
+
+[ 2017-02-10T13:40:53+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001609s ]
+
+[ 2017-02-10T13:40:53+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-02-10T13:40:53+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001027s ]
+
+[ 2017-02-10T13:40:53+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-02-10T13:40:53+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-02-10T13:41:19+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2017-02-10T13:41:53+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+
+[ 2017-02-10T13:41:55+08:00 ] 127.0.0.1 /Pc/Login/exitlogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2017-02-10T13:41:55+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-02-10T13:41:55+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2017-02-10T13:41:58+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2017-02-10T13:41:58+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001559s ]
+
+[ 2017-02-10T13:42:01+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-02-10T13:42:05+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+
+[ 2017-02-10T13:42:06+08:00 ] 127.0.0.1 /Pc/Login/code.html?0.3756310809403658
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2017-02-10T13:42:10+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2017-02-10T13:42:10+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+
+[ 2017-02-10T13:42:22+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2017-02-10T13:42:43+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+
+[ 2017-02-10T13:42:44+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2017-02-10T13:43:18+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+
+[ 2017-02-10T13:43:40+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2017-02-10T13:43:41+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+
+[ 2017-02-10T13:43:42+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2017-02-10T13:43:43+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+
+[ 2017-02-10T13:44:01+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+
+[ 2017-02-10T13:44:02+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2017-02-10T13:44:03+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-02-10T13:44:03+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2017-02-10T13:44:04+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+
+[ 2017-02-10T13:47:30+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+
+[ 2017-02-10T13:47:55+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-02-10T13:48:14+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2017-02-10T13:48:38+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+
+[ 2017-02-10T13:49:06+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-02-10T13:49:32+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+
+[ 2017-02-10T13:51:04+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+
+[ 2017-02-10T13:51:25+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-02-10T13:52:40+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2017-02-10T13:55:14+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-02-10T13:56:15+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2017-02-10T13:56:39+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2017-02-10T13:57:54+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2017-02-10T13:59:44+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-02-10T14:00:34+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+
+[ 2017-02-10T14:00:36+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+
+[ 2017-02-10T14:00:36+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-02-10T14:00:37+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2017-02-10T14:00:44+08:00 ] 127.0.0.1 /Pc/Login/exitlogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+
+[ 2017-02-10T14:00:44+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+
+[ 2017-02-10T14:00:45+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+
+[ 2017-02-10T14:00:54+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-02-10T14:00:57+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001067s ]
+
+[ 2017-02-10T14:01:00+08:00 ] 127.0.0.1 /Pc/Login/code.html?0.6761787319555879
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+
+[ 2017-02-10T14:01:01+08:00 ] 127.0.0.1 /Pc/Login/code.html?0.5187600750941783
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2017-02-10T14:01:05+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2017-02-10T14:01:05+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+
+[ 2017-02-10T14:09:09+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-02-10T15:49:41+08:00 ] 127.0.0.1 /pc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-02-10T15:49:41+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2017-02-10T15:49:41+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2017-02-10T15:52:58+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+
+[ 2017-02-10T15:52:58+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-02-10T15:53:00+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-02-10T15:53:00+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2017-02-10T15:53:01+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-02-10T15:53:01+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+
+[ 2017-02-10T15:53:26+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-02-10T15:53:50+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2017-02-10T15:53:57+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2017-02-10T15:55:59+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+
+[ 2017-02-10T15:56:03+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+
+[ 2017-02-10T15:56:09+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2017-02-10T15:56:25+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+
+[ 2017-02-10T15:56:30+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2017-02-10T15:56:53+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+
+[ 2017-02-10T15:57:48+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+
+[ 2017-02-10T15:57:49+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2017-02-10T15:58:54+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2017-02-10T15:58:55+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-02-10T15:58:58+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+
+[ 2017-02-10T16:04:16+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+
+[ 2017-02-10T16:04:19+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+
+[ 2017-02-10T16:04:43+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+
+[ 2017-02-10T16:04:55+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000921s ]
+
+[ 2017-02-10T16:05:58+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+
+[ 2017-02-10T16:09:26+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+
+[ 2017-02-10T16:10:24+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2017-02-10T16:11:57+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2017-02-10T16:11:59+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+
+[ 2017-02-10T16:12:00+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+
+[ 2017-02-10T16:12:00+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-02-10T16:12:00+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2017-02-10T16:12:01+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-02-10T16:12:01+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-02-10T16:12:03+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-02-10T16:12:48+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+
+[ 2017-02-10T16:12:51+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2017-02-10T16:13:03+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001161s ]
+
+[ 2017-02-10T16:13:18+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+
+[ 2017-02-10T16:13:19+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+
+[ 2017-02-10T16:13:19+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2017-02-10T16:13:20+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-02-10T16:13:20+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000877s ]
+
+[ 2017-02-10T16:13:21+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+
+[ 2017-02-10T16:13:21+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001757s ]
+
+[ 2017-02-10T16:13:21+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+
+[ 2017-02-10T16:13:21+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001792s ]
+
+[ 2017-02-10T16:13:21+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+
+[ 2017-02-10T16:13:21+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001669s ]
+
+[ 2017-02-10T16:13:21+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+
+[ 2017-02-10T16:13:22+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000974s ]
+
+[ 2017-02-10T16:13:22+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001696s ]
+
+[ 2017-02-10T16:13:35+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-02-10T16:13:36+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2017-02-10T16:13:36+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+
+[ 2017-02-10T16:13:58+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+
+[ 2017-02-10T16:13:59+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2017-02-10T16:13:59+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2017-02-10T16:14:26+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+
+[ 2017-02-10T16:14:27+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2017-02-10T16:14:28+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+
+[ 2017-02-10T16:14:40+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-02-10T16:14:41+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2017-02-10T16:14:41+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2017-02-10T16:14:42+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-02-10T16:14:42+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+
+[ 2017-02-10T16:14:42+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2017-02-10T16:14:42+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2017-02-10T16:15:11+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+
+[ 2017-02-10T16:15:11+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+
+[ 2017-02-10T16:15:11+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2017-02-10T16:15:11+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2017-02-10T16:15:12+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+
+[ 2017-02-10T16:15:23+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+
+[ 2017-02-10T16:15:24+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-02-10T16:15:24+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2017-02-10T16:15:24+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-02-10T16:15:25+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-02-10T16:15:30+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-02-10T16:15:33+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+
+[ 2017-02-10T16:15:33+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+
+[ 2017-02-10T16:15:33+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-02-10T16:15:33+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001037s ]
+
+[ 2017-02-10T16:15:33+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+
+[ 2017-02-10T16:15:34+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+
+[ 2017-02-10T16:15:34+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001854s ]
+
+[ 2017-02-10T16:15:34+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+
+[ 2017-02-10T16:15:34+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001463s ]
+
+[ 2017-02-10T16:15:34+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001148s ]
+
+[ 2017-02-10T16:15:35+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002190s ]
+
+[ 2017-02-10T16:15:35+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2017-02-10T16:15:44+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+
+[ 2017-02-10T16:15:47+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000935s ]
+
+[ 2017-02-10T16:15:47+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000828s ]
+
+[ 2017-02-10T16:15:47+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-02-10T16:15:47+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+
+[ 2017-02-10T16:16:02+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+
+[ 2017-02-10T16:16:35+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2017-02-10T16:16:35+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+
+[ 2017-02-10T16:16:37+08:00 ] 127.0.0.1 /Pc/Login/code.html?0.9413585637322752
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+
+[ 2017-02-10T16:16:37+08:00 ] 127.0.0.1 /Pc/Login/code.html?0.11298976878977007
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2017-02-10T16:16:38+08:00 ] 127.0.0.1 /Pc/Login/code.html?0.24153789097797151
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2017-02-10T16:16:38+08:00 ] 127.0.0.1 /Pc/Login/code.html?0.3044737951515226
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+
+[ 2017-02-10T16:17:08+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2017-02-10T16:17:08+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+
+[ 2017-02-10T16:17:24+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-02-10T16:17:24+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+
+[ 2017-02-10T16:17:30+08:00 ] 127.0.0.1 /Pc/Login/code.html?0.33844548755780735
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2017-02-10T16:17:30+08:00 ] 127.0.0.1 /Pc/Login/code.html?0.8035268423332633
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-02-10T16:17:31+08:00 ] 127.0.0.1 /Pc/Login/code.html?0.15914591154578517
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2017-02-10T16:17:55+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-02-10T16:17:55+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+
+[ 2017-02-10T16:18:19+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+
+[ 2017-02-10T16:18:19+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2017-02-10T16:18:50+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+
+[ 2017-02-10T16:18:50+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2017-02-10T16:18:51+08:00 ] 127.0.0.1 /Pc/Login/code.html?0.5978238150372306
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2017-02-10T16:18:52+08:00 ] 127.0.0.1 /Pc/Login/code.html?0.5399769629341997
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-02-10T16:18:54+08:00 ] 127.0.0.1 /Pc/Login/code.html?0.10382582616124636
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+
+[ 2017-02-10T16:18:54+08:00 ] 127.0.0.1 /Pc/Login/code.html?0.3619433535822085
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-02-10T16:19:27+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+
+[ 2017-02-10T16:19:27+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+
+[ 2017-02-10T16:19:52+08:00 ] 127.0.0.1 /Pc/Login/code.html?0.9421896977165327
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-02-10T16:19:53+08:00 ] 127.0.0.1 /Pc/Login/code.html?0.7341254583431869
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2017-02-10T16:20:00+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2017-02-10T16:20:00+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+
+[ 2017-02-10T16:22:51+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2017-02-10T16:22:51+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001870s ]
+
+[ 2017-02-10T16:22:59+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+
+[ 2017-02-10T16:23:02+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+
+[ 2017-02-10T16:23:13+08:00 ] 127.0.0.1 /Pc/Login/code.html?0.9869167275330484
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2017-02-10T16:23:18+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-02-10T16:23:21+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+
+[ 2017-02-10T16:23:23+08:00 ] 127.0.0.1 /Pc/Login/code.html?0.3525041675667917
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2017-02-10T16:23:26+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+
+[ 2017-02-10T16:23:29+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001018s ]
+
+[ 2017-02-10T16:23:38+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2017-02-10T16:23:41+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+
+[ 2017-02-10T16:24:28+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+
+[ 2017-02-10T16:24:28+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+
+[ 2017-02-10T16:24:33+08:00 ] 127.0.0.1 /Pc/Login/code.html?0.5243380859797466
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-02-10T16:24:39+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-02-10T16:24:39+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2017-02-10T16:24:45+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-02-10T16:24:46+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-02-10T16:25:54+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+
+[ 2017-02-10T16:25:57+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2017-02-10T16:25:58+08:00 ] 127.0.0.1 /Pc/Login/exitlogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2017-02-10T16:25:58+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2017-02-10T16:25:58+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001519s ]
+
+[ 2017-02-10T16:25:59+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2017-02-10T16:25:59+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+
+[ 2017-02-10T16:26:06+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+
+[ 2017-02-10T16:26:06+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2017-02-10T16:26:27+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-02-10T16:26:27+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2017-02-10T16:30:38+08:00 ] 127.0.0.1 /Pc/Login/exitlogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+
+[ 2017-02-10T16:30:38+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2017-02-10T16:30:38+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+
+[ 2017-02-10T16:30:46+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+
+[ 2017-02-10T16:30:49+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-02-10T16:33:31+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-02-10T16:33:32+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+
+[ 2017-02-10T16:33:33+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2017-02-10T16:33:36+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+
+[ 2017-02-10T16:33:43+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2017-02-10T16:37:31+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+
+[ 2017-02-10T16:37:34+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000963s ]
+
+[ 2017-02-10T16:37:36+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-02-10T16:37:36+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2017-02-10T16:37:44+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2017-02-10T16:37:47+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001147s ]
+
+[ 2017-02-10T16:39:19+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2017-02-10T16:39:19+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000272s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001671s ]
+
+[ 2017-02-10T16:39:31+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2017-02-10T16:39:31+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2017-02-10T16:39:44+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-02-10T16:40:30+08:00 ] 127.0.0.1 /Pc/Login/exitlogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2017-02-10T16:40:30+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2017-02-10T16:40:30+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+
+[ 2017-02-10T16:40:32+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2017-02-10T16:40:32+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001406s ]
+
+[ 2017-02-10T16:45:58+08:00 ] 127.0.0.1 /Pc/Login/exitlogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2017-02-10T16:45:58+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+
+[ 2017-02-10T16:45:58+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+
+[ 2017-02-10T16:46:03+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2017-02-10T16:46:03+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000890s ]
+
+[ 2017-02-10T16:47:17+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+
+[ 2017-02-10T16:47:17+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+
+[ 2017-02-10T16:48:07+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+
+[ 2017-02-10T16:48:07+08:00 ] 127.0.0.1 /Pc/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-02-10T16:48:32+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2017-02-10T16:48:32+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+
+[ 2017-02-10T16:48:35+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-02-10T16:48:35+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+
+[ 2017-02-10T16:48:41+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-02-10T16:48:41+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2017-02-10T16:48:42+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2017-02-10T16:48:42+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-02-10T16:48:43+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2017-02-10T16:48:44+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-02-10T16:48:45+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-02-10T16:48:45+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-02-10T16:49:19+08:00 ] 127.0.0.1 /Pc/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-02-10T16:49:20+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-02-10T16:49:27+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+
+[ 2017-02-10T16:50:03+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2017-02-10T16:51:28+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2017-02-10T16:52:08+08:00 ] 127.0.0.1 /Pc/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+

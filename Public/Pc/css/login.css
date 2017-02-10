@@ -1,0 +1,58 @@
+.login{
+	width: 285px;
+	height:345px;
+	background-color:#465565;
+	margin-right: 89px;
+	margin-top:34px;   
+	float: right;
+}
+.login h1{
+  font-size:16px;
+  text-align: center;
+  color:#fff;padding:5px;   
+}
+.login>ul>li{
+	width: 222px;
+	height:42px;
+}
+.login>ul>li>span{
+	width:42px;
+	height:42px;float: left;background-color:#AAABAB;   
+}
+.login>ul>li>span>img{
+	    margin: 4px 2px 3px 5px;
+}
+.login>ul>li>input{
+	float: left;width: 175px;border: 0;height: 40px;color: #595959;
+    font-size: 12px;
+}
+.login>ul>li:nth-child(1){
+	margin:22px auto 10px auto;
+}
+.login>ul>li:nth-child(2){
+	margin:0px auto;
+}
+.login>ul>li:nth-child(3){
+	margin:10px auto 10px auto;
+}
+.fogkey{
+	font-size:12px;color:#fff;float: right;margin: 9px 37px 18px 0px;  
+}
+.log-btn{
+	width:222px;color:#fff;line-height:42px;margin:0 auto; 
+	height:42px;text-align: center;border:0px;display:block;  
+	background-color:#00AAEE;font-size:16px;cursor:pointer;border-radius:8px;      
+}
+.resg{
+	width:222px;
+	height:19px;
+	margin:11px auto 0px auto;
+}
+.resg-1{
+	float: left;
+	font-size:12px;color:#fff; 
+}
+.resg-2{
+	float:right;font-size:12px;
+	color:#00AAEE; 
+}
